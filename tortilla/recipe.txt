@@ -1,2 +1,3 @@
 recipe
 1. peel potatoes
+2. slice potatoes
